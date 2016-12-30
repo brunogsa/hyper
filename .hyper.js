@@ -21,6 +21,10 @@ module.exports = {
     "hyper-simple-highlight-active-session",
     "hyperborder",
     "hyperterm-bold-tab",
-    "hyper-plugin-autoprofile"
+    "hyper-blink",
+    "hyperterm-paste",
+    "hyperlinks",
+    "hyperterm-cursor",
+    "hyperpunk"
   ]
 };
